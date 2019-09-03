@@ -3,6 +3,8 @@
 This repository is used to get started with Python in the Software for Science minor.
 Authors: Mats Otten & Rick van der Heide
 
+The program shows a small portion of the trash bins of Amsterdam and what kind it is. The amounts are counted and there is a counter for every type as well. 
+
 ## Installation
 
 First set-up a Python environment for yourself. This project requires Python3.
